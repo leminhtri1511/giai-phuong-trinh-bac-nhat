@@ -1,0 +1,14 @@
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\bin\Debug\net8.0\GiaiPhuongTrinhBacNhat.exe
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\bin\Debug\net8.0\GiaiPhuongTrinhBacNhat.deps.json
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\bin\Debug\net8.0\GiaiPhuongTrinhBacNhat.runtimeconfig.json
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\bin\Debug\net8.0\GiaiPhuongTrinhBacNhat.dll
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\bin\Debug\net8.0\GiaiPhuongTrinhBacNhat.pdb
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\obj\Debug\net8.0\GiaiPhuongTrinhBacNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\obj\Debug\net8.0\GiaiPhuongTrinhBacNhat.AssemblyInfoInputs.cache
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\obj\Debug\net8.0\GiaiPhuongTrinhBacNhat.AssemblyInfo.cs
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\obj\Debug\net8.0\GiaiPhuongTrinhBacNhat.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\obj\Debug\net8.0\GiaiPhuongTrinhBacNhat.dll
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\obj\Debug\net8.0\refint\GiaiPhuongTrinhBacNhat.dll
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\obj\Debug\net8.0\GiaiPhuongTrinhBacNhat.pdb
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\obj\Debug\net8.0\GiaiPhuongTrinhBacNhat.genruntimeconfig.cache
+D:\WorkSpace\C#_EX\5\GiaiPhuongTrinhBacNhat\obj\Debug\net8.0\ref\GiaiPhuongTrinhBacNhat.dll
